@@ -10,14 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "HairStrands",
-			"Enabled": true
-		},
-		{
-			"Name": "AlembicHairImporter",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
@@ -25,6 +17,7 @@
 		"IOS",
 		"Linux",
 		"Mac",
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
